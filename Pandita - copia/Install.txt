@@ -1,5 +1,0 @@
-Poner el siguiente comando en el CMD para instalar la libreria es el único requisito
-
-pip install pygame
-
-pip install pyperclip
