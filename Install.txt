@@ -1,4 +1,4 @@
-Poner el siguiente comando en el CMD para instalar la libreria es el único requisito
+Poner el siguiente comando en la terminal para instalar la libreria es el único requisito
 
 pip install pygame
 
