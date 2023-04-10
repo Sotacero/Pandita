@@ -41,7 +41,7 @@ def search_numbers():
         mb.showinfo("Resultados",f"Se encontraron {len(results)} coincidencias. Los resultados han sido copiados al portapapeles.")
 
     root = tk.Tk()
-    root.title("Busqueda Tarjetas Sabadell")
+    root.title("Busqueda Tarjetas")
     root.iconbitmap('logo.ico')
     root.geometry("800x600")
     root.minsize(400,300)
