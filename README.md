@@ -38,7 +38,7 @@ Puedes pausar la música con el botón de sonido en la esquina superior derecha.
 
 📂 Estructura del Proyecto
 
-📁 Tu_Proyecto
+📁 Pandita
 ├─ main.py
 ├─ requirements.txt
 ├─ logo.ico
