@@ -1,9 +1,0 @@
-Poner el siguiente comando en la terminal para instalar la libreria es el único requisito
-
-pip install pygame
-
-pip install pyperclip
-
-Añadir una foto en formato .png en la misma carpeta y otra en formato .ico para que use de logo. Además, de una canción .mp3 a tu gusto.
-
-Si no quieres ninguna de estas funciones puedes comentarlas en el código.
