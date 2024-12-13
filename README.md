@@ -19,3 +19,36 @@ Este proyecto te permite filtrar rápidamente números de tarjetas desde múltip
 
 - Python 3.x  
 - Dependencias (listadas en `requirements.txt`):
+
+🚀 Instrucciones de Uso
+Clona el repositorio o descarga el código.
+Instala las dependencias:
+
+pip install -r requirements.txt
+
+Ejecuta el script principal:
+
+python main.py
+
+Interfaz:
+Ingresa los BINs en el campo de texto (separados por comas).
+Presiona "Buscar" y selecciona la carpeta que contiene tus archivos .txt.
+Los resultados se mostrarán en la lista y se copiarán automáticamente al portapapeles.
+Puedes pausar la música con el botón de sonido en la esquina superior derecha.
+
+📂 Estructura del Proyecto
+
+📁 Tu_Proyecto
+├─ main.py
+├─ requirements.txt
+├─ logo.ico
+├─ fondo.png
+├─ sound.png
+├─ mute.png
+└─ Zelda.mp3
+
+🧩 Contribuciones
+Si deseas contribuir, haz un fork del repositorio, crea una rama y envía un pull request. Toda idea es bienvenida.
+
+🌱 Licencia
+Este proyecto se distribuye bajo la licencia que tú prefieras. Haz lo que quieras con él, diviértete.
