@@ -49,6 +49,3 @@ Puedes pausar la música con el botón de sonido en la esquina superior derecha.
 
 🧩 Contribuciones
 Si deseas contribuir, haz un fork del repositorio, crea una rama y envía un pull request. Toda idea es bienvenida.
-
-🌱 Licencia
-Este proyecto se distribuye bajo la licencia que tú prefieras. Haz lo que quieras con él, diviértete.
