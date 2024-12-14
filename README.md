@@ -1,7 +1,6 @@
 # ✨ Buscador de Tarjetas ✨
 
-¡Bienvenido al **Buscador de Tarjetas**!  
-Este proyecto te permite filtrar rápidamente números de tarjetas desde múltiples ficheros .txt.
+Un programa diseñado para identificar y extraer tarjetas bancarias basadas en códigos BIN desde archivos obtenidos con bots en canales de Telegram.
 
 ---
 
@@ -46,6 +45,3 @@ Puedes pausar la música con el botón de sonido en la esquina superior derecha.
 ├─ sound.png
 ├─ mute.png
 └─ Zelda.mp3
-
-🧩 Contribuciones
-Si deseas contribuir, haz un fork del repositorio, crea una rama y envía un pull request. Toda idea es bienvenida.
