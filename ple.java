@@ -1,6 +1,5 @@
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import log4j-core:2.14.1
 public class Log4ShellExample {
 
     private static final Logger logger = LogManager.getLogger(Log4ShellExample.class);
