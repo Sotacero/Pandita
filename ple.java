@@ -14,3 +14,5 @@ public class Log4ShellExample {
         System.out.println("Log4Shell vulnerable example executed.");
     }
 }
+
+api_key='hahaje2123xzxc21321312wqf3asdnop'
